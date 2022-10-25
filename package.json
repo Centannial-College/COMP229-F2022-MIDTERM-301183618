@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2022",
+  "name": "comp229-f2022-midterm-301183618",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "",
+  "author": "daniilv-me",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
